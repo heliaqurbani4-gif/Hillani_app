@@ -1,0 +1,7 @@
+streamlit>=1.33
+numpy>=1.23
+pandas>=1.5
+opencv-python-headless>=4.8
+scikit-image>=0.22
+mediapipe>=0.10.9
+pingouin>=0.5.4
