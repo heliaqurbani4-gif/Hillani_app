@@ -1,4 +1,7 @@
-streamlit
-opencv-python-headless
-numpy
-Pillow
+  Downloading scikit_image-0.25.2-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (14 kB)
+
+ERROR: Ignored the following versions that require a different python version: 0.55.2 Requires-Python <3.5; 1.21.2 Requires-Python >=3.7,<3.11; 1.21.3 Requires-Python >=3.7,<3.11; 1.21.4 Requires-Python >=3.7,<3.11; 1.21.5 Requires-Python >=3.7,<3.11; 1.21.6 Requires-Python >=3.7,<3.11; 1.26.0 Requires-Python <3.13,>=3.9; 1.26.1 Requires-Python <3.13,>=3.9
+
+ERROR: Could not find a version that satisfies the requirement mediapipe>=0.10.9 (from versions: none)
+
+ERROR: No matching distribution found for mediapipe>=0.10.9
